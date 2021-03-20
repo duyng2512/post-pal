@@ -4,16 +4,14 @@
 
 ## App Introduction
 
-<<<<<<< HEAD
+
 <p align="center">
 
   <img src="/read-me/app-logo.png">
   
 </p>
 
-=======
 
->>>>>>> 6036c1551a78a74201e216442325771c465f5637
 
 ## Features
 
@@ -32,10 +30,7 @@
 - Included CI (Continuous Integration) with [Travis CI](https://travis-ci.org).
 - Linting with [Eslint](https://eslint.org/).
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 6036c1551a78a74201e216442325771c465f5637
 
 ## How to install
 
@@ -59,10 +54,7 @@ cd myproject
 npm install
 ```
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 6036c1551a78a74201e216442325771c465f5637
 
 ## How to run
 
