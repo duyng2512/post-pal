@@ -1,15 +1,19 @@
-# Nodejs Expressjs MongoDB Ready-to-use API Project Structure
+# Post Pal A Scanning Solution for VN Post Vinh Long
 
 
 
 ## App Introduction
 
+<<<<<<< HEAD
 <p align="center">
 
   <img src="/read-me/app-logo.png">
   
 </p>
 
+=======
+
+>>>>>>> 6036c1551a78a74201e216442325771c465f5637
 
 ## Features
 
@@ -28,6 +32,10 @@
 - Included CI (Continuous Integration) with [Travis CI](https://travis-ci.org).
 - Linting with [Eslint](https://eslint.org/).
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6036c1551a78a74201e216442325771c465f5637
 
 ## How to install
 
@@ -36,7 +44,7 @@
 1.  Clone the project from github. Change "myproject" to your project name.
 
 ```bash
-git clone https://github.com/maitraysuthar/rest-api-nodejs-mongodb.git ./myproject
+git clone https://github.com/duyng2512/post-pal.git ./myproject
 ```
 
 ### Using manual download ZIP
@@ -51,6 +59,10 @@ cd myproject
 npm install
 ```
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6036c1551a78a74201e216442325771c465f5637
 
 ## How to run
 
