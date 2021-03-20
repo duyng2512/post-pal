@@ -21,14 +21,11 @@
 - JWT Tokens, make requests with a token after login with `Authorization` header with value `Bearer yourToken` where `yourToken` will be returned in Login response.
 - Pre-defined response structures with proper status codes.
 - Included CORS.
-- **Book** example with **CRUD** operations.
+- **CRUD** operations.
 - Validations added.
 - Included API collection for Postman.
 - Light-weight project.
-- Test cases with [Mocha](https://mochajs.org/) and [Chai](https://www.chaijs.com/).
-- Code coverage with [Istanbuljs (nyc)](https://istanbul.js.org/).
-- Included CI (Continuous Integration) with [Travis CI](https://travis-ci.org).
-- Linting with [Eslint](https://eslint.org/).
+
 
 
 
